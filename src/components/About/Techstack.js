@@ -9,7 +9,6 @@ import {
   DiCss3,
   DiJqueryLogo,
   DiBootstrap,
-  DiFirebase,
 } from "react-icons/di";
 
 import { SiTailwindcss, SiTypescript,SiFirebase } from "react-icons/si";
