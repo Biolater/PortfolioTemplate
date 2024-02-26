@@ -9,9 +9,9 @@ import {
   DiCss3,
   DiJqueryLogo,
   DiBootstrap,
-} from "react-icons/di";
+  } from "react-icons/di";
 
-import { SiTailwindcss, SiTypescript,SiFirebase } from "react-icons/si";
+import { SiTailwindcss, SiTypescript,SiFirebase,SiWordpress } from "react-icons/si";
 
 
 function Techstack() {
@@ -49,6 +49,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiTypescript />
+      </Col>
+      <Col xs={4} md={2}  className="tech-icons">
+        <SiWordpress />      
       </Col>
     </Row>
   );
