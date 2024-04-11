@@ -11,7 +11,7 @@ import {
   DiBootstrap,
   } from "react-icons/di";
 
-import { SiTailwindcss, SiTypescript,SiFirebase,SiWordpress } from "react-icons/si";
+import { SiTailwindcss, SiTypescript,SiFirebase,SiWordpress, SiNextdotjs, SiAmazonaws,SiGraphql } from "react-icons/si";
 
 
 function Techstack() {
@@ -33,13 +33,22 @@ function Techstack() {
         <DiReact />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
+        <SiNextdotjs />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <DiBootstrap />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiNodejs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
+        <SiGraphql />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <SiFirebase />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAmazonaws />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiTailwindcss />

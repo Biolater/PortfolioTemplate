@@ -20,7 +20,7 @@ function Home2() {
               <br />
               <br /> My coding journey has been fueled by languages like
               <i>
-                <b className="purple"> HTML, CSS, JavaScript, React, and Tailwind.</b>
+                <b className="purple"> HTML, CSS, JavaScript, Typescript, React and Next.js</b>
               </i>
               <br />
               <br />
@@ -36,7 +36,7 @@ function Home2() {
               <br />
               <br />
               Currently honing my skills with
-              <b className="purple"> Firebase</b>, and building projects that make a
+              <b className="purple"> Next.js</b>, and building projects that make a
               positive impact.
             </p>
           </Col>

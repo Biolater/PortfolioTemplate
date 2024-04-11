@@ -44,9 +44,9 @@ function Projects() {
             <ProjectCard
               imgPath={spaceone}
               isBlog={false}
-              title="SpaceOne (In progress)"
+              title="SpaceOne"
               description="
-              SpaceOne is an in-progress web application that I'm developing. It's a dynamic project crafted with HTML, CSS, JavaScript, React, Tailwind CSS, Firebase, TypeScript, Git, and GitHub. This project highlights my skills and versatility, demonstrating my ability to address various challenges. Stay tuned for the completion of this project, where I aim to deliver an innovative and user-friendly experience."
+              SpaceOne is a web application that I developed because of my Space love. It's a dynamic project crafted with HTML, CSS, JavaScript, React, Tailwind CSS, Firebase, TypeScript, Git, and GitHub. This project highlights my skills and versatility, demonstrating my ability to address various challenges. Stay tuned for the completion of this project, where I aim to deliver an innovative and user-friendly experience."
               ghLink="https://github.com/biolater/space-one"
               demoLink="https://space-one-15043.web.app/"              
             />

@@ -22,21 +22,19 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Over 60 web projects designed and implemented
-              using HTML, CSS, JavaScript, jQuery, React, and Firebase.
+            <ImPointRight /> Built robust and user-friendly interfaces using HTML, CSS, JavaScript, React and Next.js
             </li>
             <li className="about-activity">
-              <ImPointRight /> Demonstrated versatility in handling projects
-              ranging from personal websites to dynamic web applications.
+            <ImPointRight /> Collaborated with backend teams to seamlessly integrate frontend components with RESTful APIs.
             </li>
             <li className="about-activity">
-              <ImPointRight /> Successfully addressed various challenges,
-              showcasing adaptability and creative problem-solving skills.
+            <ImPointRight /> Applied Agile methodologies to ensure timely delivery of web development projects.
             </li>
             <li className="about-activity">
-              <ImPointRight /> Kept up-to-date with the latest technologies,
-              integrating them into projects to enhance functionality and user
-              experience.
+            <ImPointRight /> Prioritized code optimization and best practices for user experience and performance.
+            </li>
+            <li className="about-activity">
+            <ImPointRight /> Demonstrated a strong commitment to continuous learning and expanding my web development expertise.
             </li>
           </ul>
 
